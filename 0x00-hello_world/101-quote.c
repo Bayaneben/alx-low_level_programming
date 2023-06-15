@@ -2,7 +2,6 @@
 #include <unistd.h>
 /**
  * main - Entry point
- * Description: prints a line to a standard 
  * Return:1 (Success)
  */
 int main(void)
