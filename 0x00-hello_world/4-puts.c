@@ -1,8 +1,9 @@
 #include <stdio.h>
 /**
-* main - entry point
-* return always 0(succeded)
-*/
+ * main - Entry point
+ * Description: it shows the message
+ * Return: Always 0 (Success)
+ */
 int main(void)
 {
 	puts("\"Programming is like building a multilingual puzzle");
