@@ -1,5 +1,6 @@
 #ifndef MAIN_FILE
 #define MAIN_FILE
+void print_line(int n);
 void more_numbers(void);
 void print_numbers(void);
 void print_most_numbers(void);
