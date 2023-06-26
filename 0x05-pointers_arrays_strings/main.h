@@ -3,6 +3,7 @@
 #include <stdio.h>
 #include <unistd.h>
 void puts2(char *str);
+void print_array(int *a, int n);
 void puts_half(char *str);
 void rev_string(char *s);
 void print_rev(char *s);
